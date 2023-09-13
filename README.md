@@ -9,3 +9,4 @@
 * django-admin startproject studypartner
 * cd study partner
 * python manage.py runserver
+* python manage.py migrate
